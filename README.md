@@ -33,8 +33,9 @@
 
 | 版本 | 说明 |
 |------|------|
-| [化学大全 Setup 1.0.0.exe](https://github.com/你的用户名/chemistry-app/releases) | Windows 安装版 |
-| [化学大全_Portable.zip](https://github.com/你的用户名/chemistry-app/releases) | 免安装便携版 |
+| [化学大全 Setup 1.0.0.exe](https://github.com/Wolfzzzzz/chemistry-app/release) | Windows 安装版 |
+| [化学大全_Portable.zip](https://github.com/Wolfzzzzz/chemistry-app/化学大全_Portable.zip) | 免安装便携版 |
+| [化学大全_exe文件（如果丢失）](https://github.com/Wolfzzzzz/chemistry-app/release/bug) | Windows 安装版（补充包） |
 
 ---
 
@@ -42,7 +43,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/你的用户名/chemistry-app.git
+git clone https://github.com/Wolfzzzzz/chemistry-app.git
 cd chemistry-app
 
 # 安装依赖
